@@ -1,9 +1,13 @@
 a,
 a:visited,
 body {
-	font-color: #ebebeb;
+	color: #ebebeb;
 }
 body {
 	background: #202020;
 }
 
+.container-lg {
+	border: solid medium gray;
+	padding: 2em;
+}
