@@ -7,6 +7,10 @@ body {
 	background: #202020;
 }
 
+img [src='/hatt.jpg'] {
+	margin: 0 auto;
+}
+
 .container-lg {
 	border: solid medium gray;
 	padding: 2em;
