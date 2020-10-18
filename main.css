@@ -15,6 +15,7 @@ img [src='/hatt.jpg'] {
 	border: solid medium gray;
 	padding: 2em;
 }
-.container-lg h1:first-child() {
+.container-lg h1:first-child(),
+h1:first-child() {
 	display: none;
 }

@@ -2,11 +2,17 @@
 
 # The Official Home of the Hat
 
-- [GitHub Repos](https://github.com/hattyhacker)
+Video Platforms:
+
+- [BitChute Videos](https://www.bitchute.com/channel/9D5nFuVO6R2X/)
 - [LBRY.tv Videos](https://lbry.tv/@HattyHacker:f)
 - [YouTube Videos](https://www.youtube.com/channel/UClfSAhvbpNulpVjyr3ecGaQ)
 
-- [TempleOS Lite ISO](https://github.com/hattyhacker/templeos-lite/releases/download/v5.04-alpha/TOSLite.ISO)
+Repos:
+
+- [GitHub Repos](https://github.com/hattyhacker)
+  - [TempleOS Lite ISO](https://github.com/hattyhacker/templeos-lite/releases/download/v5.04-alpha/TOSLite.ISO)
+
 
 &copy; 2020 All Rights Reserved
 
