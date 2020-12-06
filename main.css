@@ -1,21 +1,15 @@
 a,
 a:visited,
-body {
-	color: #ebebeb;
-}
-body {
-	background: #202020;
-}
 
 img [src='/hatt.jpg'] {
+	border-radius: 100%;
 	margin: 0 auto;
 }
 
-.container-lg {
-	border: solid medium gray;
-	padding: 2em;
+li img {
+	height: 1em;
 }
-.container-lg h1:first-child(),
-h1:first-child() {
-	display: none;
+
+.container-lg {
+	padding: 2em;
 }

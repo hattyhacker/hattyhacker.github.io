@@ -1,6 +1,5 @@
-![](./hatt.jpg)
 
-# The Official Home of the Hat
+# ![](./hatt.jpg) The Home of the Hat
 
 Video Platforms:
 
@@ -14,7 +13,6 @@ Video Platforms:
 Repos:
 
 - [GitHub Repos](https://github.com/hattyhacker)
-  - [TempleOS Lite ISO](https://github.com/hattyhacker/templeos-lite/releases/download/v5.04-alpha/TOSLite.ISO)
 
 
 &copy; 2020 All Rights Reserved
