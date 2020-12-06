@@ -1,13 +1,24 @@
 a,
 a:visited,
-
-img [src='/hatt.jpg'] {
-	border-radius: 100%;
-	margin: 0 auto;
+a:hover {
+	text-decoration: none
+}
+a:hover {
+	color: #0bf;
 }
 
+img [src='./hatt.jpg'] {
+	border-radius: 100%;
+}
+
+ul {
+	list-style-type: none;
+}
+
+h1 img,
 li img {
 	height: 1em;
+	padding-right: 1em;
 }
 
 .container-lg {
