@@ -4,9 +4,12 @@
 
 Video Platforms:
 
-- [BitChute Videos](https://www.bitchute.com/channel/9D5nFuVO6R2X/)
-- [LBRY.tv Videos](https://lbry.tv/@HattyHacker:f)
-- [YouTube Videos](https://www.youtube.com/channel/UClfSAhvbpNulpVjyr3ecGaQ)
+- ![](./img/bitChute.png)[BitChute](https://www.bitchute.com/channel/9D5nFuVO6R2X/)
+- ![](./img/dTube.png)[DTube](https://d.tube/#!/c/hattyhacker00)
+- ![](./img/lbry.png)[LBRY](https://lbry.tv/@HattyHacker:f)
+- ![](./img/peerTube.png)[OpenTube (PeerTube)](https://open.tube/video-channels/hatty_hacker)
+- ![](./img/storyFire.png)[StoryFire](https://lbry.tv/@HattyHacker:f)
+- ![](./img/youTube.png)[YouTube](https://www.youtube.com/channel/UClfSAhvbpNulpVjyr3ecGaQ)
 
 Repos:
 
