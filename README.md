@@ -13,6 +13,7 @@ Video Platforms:
 Social:
 
 - [Cent](https://beta.cent.co/hattyhacker/)
+- [Publish0x](https://www.publish0x.com/@HattyHacker)
 
 Repos:
 
