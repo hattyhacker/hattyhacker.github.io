@@ -25,7 +25,7 @@ Archives:
 - [![](./img/peerTube.png) OpenTube (PeerTube)](https://open.tube/video-channels/hatty_hacker)
 - [![](./img/youTube.png) YouTube](https://www.youtube.com/channel/UClfSAhvbpNulpVjyr3ecGaQ)
 
-&copy; 2020 All Rights Reserved
+&copy; 2021 All Rights Reserved
 
 `HattyHacking;`
 
